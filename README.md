@@ -9,6 +9,10 @@
 
 * npm install
 
+## Run
+
+* node app.js
+
 ## Init Desktop Stream
 
 * Open other terminal
